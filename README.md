@@ -1,1 +1,1 @@
-# js.kod
+# js.slider
